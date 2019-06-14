@@ -1,0 +1,4 @@
+/mysql_data
+/nginx.conf
+/.env
+/docker-compose.yml
